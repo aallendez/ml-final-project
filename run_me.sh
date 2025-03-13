@@ -9,7 +9,7 @@ IMAGES_DIR="$BASE_DIR/dataset/images"
 TEMP_IMAGES_DIR="$IMAGES_DIR/temp_images"  # temporary folder for downloaded image tars
 MERGED_IMAGES_DIR="$IMAGES_DIR/merged_images"  # final destination for images
 CODE_DIR="$BASE_DIR/code"
-
+ 
 # Create necessary directories if they don't exist
 mkdir -p "$ANNOTATIONS_DIR" "$IMAGES_DIR" "$TEMP_IMAGES_DIR" "$MERGED_IMAGES_DIR"
 
