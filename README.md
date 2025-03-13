@@ -11,7 +11,7 @@ Run the `run_me.sh` script to download the data, merge the image tar files, and 
 ```
 
 ## Data
-The data is downloaded from these links [link1](https://github.com/MeioJane/SIXray/blob/master/data_list.txt).
+The data is downloaded from these links [link](https://github.com/MeioJane/SIXray/blob/master/data_list.txt).
 
 
 
